@@ -1,10 +1,12 @@
 # FreeCAD Backup Files
+*.FCBak
 *.FCStd1
 *.FCStd2
 *.FCStd3
 *.FCStd4
 *.FCStd5
 *.bak
+*.bck
 *.fcstd~
 
 # OS Generated Files
